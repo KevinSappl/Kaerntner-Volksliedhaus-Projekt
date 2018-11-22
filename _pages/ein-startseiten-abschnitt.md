@@ -1,11 +1,11 @@
 ---
-ID: 39
+ID: 14
 post_title: Ein Startseiten-Abschnitt
 author: KevinSappl
 post_excerpt: ""
 layout: page
 permalink: >
-  http://localhost/Wordpress/ein-startseiten-abschnitt/
+  http://localhost/wordpress/ein-startseiten-abschnitt/
 published: true
 post_date: 2018-11-15 10:21:27
 ---
