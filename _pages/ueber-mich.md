@@ -1,10 +1,10 @@
 ---
-ID: 20
+ID: 36
 post_title: Über mich
 author: KevinSappl
 post_excerpt: ""
 layout: page
-permalink: http://localhost/wordpress/ueber-mich/
+permalink: http://localhost/Wordpress/ueber-mich/
 published: true
 post_date: 2018-11-15 10:21:27
 ---
