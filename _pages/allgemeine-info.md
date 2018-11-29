@@ -3,10 +3,10 @@ ID: 91
 post_title: Allgemeine Info
 author: KevinSappl
 post_excerpt: ""
-layout: page
+layout: post_type_probably_post
 permalink: >
   http://localhost/Wordpress/allgemeine-info/
-published: true
+published: true_or_false
 post_date: 2018-11-29 10:00:55
 ---
 Mit viel Liebe zum Detail wurde die alte Volksschule in St. Oswald ob Eberstein zum Kärntner Volksliedhaus ausgebaut. 
