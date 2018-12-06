@@ -3,10 +3,10 @@ ID: 73
 post_title: 'Das &#8222;Kärntner Volksliedhaus&#8220;'
 author: KevinSappl
 post_excerpt: ""
-layout: post_type_probably_post
+layout: page
 permalink: >
   http://localhost/Wordpress/das-kaerntner-volksliedhaus/
-published: true_or_false
+published: true
 post_date: 2018-11-15 12:00:32
 ---
 Eberstein
