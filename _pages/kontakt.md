@@ -8,4 +8,4 @@ permalink: http://localhost/Wordpress/kontakt/
 published: true
 post_date: 2018-11-15 10:21:27
 ---
-[Kontaktformular]
+[contact-form-7 id="188" title="Kontaktformular 1"]
