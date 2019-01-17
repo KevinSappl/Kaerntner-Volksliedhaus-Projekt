@@ -15,7 +15,9 @@ Ziel ist es, die vielen kulturellen Vereine und kreativen Personen in den Bereic
 
 Das Kärntner Volksliedhaus ist ein Kultur- und Bildungshaus, ein Haus der Begegnung, Heimstätte der Dorfgemeinschaft St. Oswald und des St. Oswalder Viergesangs. 
 
+
 [table id=3 /]
+
 
 Alle Kulturvereinigungen, Schulen, soziale und gesellschaftliche Gruppen, Organisationen jeder Art aus Kärnten, Österreich und der Europäischen Union haben die Möglichkeit, das Haus und seine Einrichtungen zu nützen.
 Im Erdgeschoß befindet sich die „Glawischnig Stube“, welche für Filmvorführungen bestens geeignet ist und fasst ca. xx Personen. Des Weiteren befindet sich dort eine Bücherei mit Kärntner Textdichtern und zahlreichen Bildbänden über Kärnten.
